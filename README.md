@@ -15,9 +15,9 @@ The method is especially suitable for biological networks such as the Gene Ontol
 
 This project was developed as a collaboration between:
 
-Sepideh Ahmadi — Idea, algorithm design, manuscript preparation
-
-Mr. Baghkhani — Code implementation and testing
+- Sepideh Ahmadi — Idea, algorithm design, manuscript preparation  
+- Dr. Javad Mohammadzadeh — Research supervision, co-author of the manuscript  
+- Mr. Baghkhani — Code implementation and testing
 
 ## How to Run
 
@@ -41,5 +41,3 @@ HiRa-GO was evaluated on the Gene Ontology dataset and compared with the Louvain
 
 The Gene Ontology dataset used in this study is in `go-basic.json` format and is available from the official GO website.
 
-## Acknowledgments
-Special thanks to Dr. Javad Mohammadzadeh for valuable guidance and support throughout this project.
