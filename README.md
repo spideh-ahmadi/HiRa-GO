@@ -17,7 +17,7 @@ This project was developed as a collaboration between:
 
 - Sepideh Ahmadi — Idea, algorithm design, manuscript preparation  
 - Dr. Javad Mohammadzadeh — Research supervision, co-author of the manuscript  
-- Mr. Baghkhani — Code implementation and testing
+- Morteza Baghkhani — Code implementation and testing
 
 ## How to Run
 
